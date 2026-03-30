@@ -1,2 +1,2 @@
-# Transfotmer-from-Scratch
+# Transformer-from-Scratch
 GPT
